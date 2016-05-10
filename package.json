@@ -1,0 +1,20 @@
+{
+  "name": "requestheader",
+  "version": "1.0.0",
+  "description": "fcc request-header-parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fcc"
+  ],
+  "author": "Calandra Zellner",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "~2.15.1",
+    "express": "^3.2.6"
+  },
+  "devDependencies": {}
+}
