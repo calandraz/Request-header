@@ -16,5 +16,13 @@
     "bootstrap": "~2.15.1",
     "express": "^3.2.6"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calandraz/request-header.git"
+  },
+  "bugs": {
+    "url": "https://github.com/calandraz/request-header/issues"
+  },
+  "homepage": "https://github.com/calandraz/request-header#readme"
 }
